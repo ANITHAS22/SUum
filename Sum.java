@@ -7,7 +7,7 @@ public class Sum
         Scanner io=new Scanner(System.in);
         int n=io.nextInt();
         int n1=io.nextInt();
-        System.out.println((float)Math.pow(n,n1));
+        System.out.println((int)Math.pow(n,n1));
       
     }
 }
